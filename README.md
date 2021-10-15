@@ -1,6 +1,6 @@
-# yemaweb
+# yema
 
-Yema version Web view
+yema est une application d'Ecommerce
 
 ## Getting Started
 
